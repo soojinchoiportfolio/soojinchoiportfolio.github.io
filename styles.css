@@ -1,0 +1,41 @@
+.container {
+	background-image: url(images/blackbar.jpg);
+	width: 1024px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.header {
+	background-image:url(images/header.jpg);
+	height: 302px;
+	width: 1024px;
+}
+#socialmedia {
+	float:right;
+	width:100px;
+	height:auto;
+	margin-right: 30px;
+	margin-top:90px;
+}
+#nav {
+	height:auto;
+	width: 1024px;
+	margin-left: 100px;
+	margin-top:0px;
+	margin-right:0px;
+	margin-bottom: 0px;
+	background-color:transparent;
+}
+.content {
+	height: auto;
+	padding-left: 100px;
+	padding-bottom: 30px;
+	padding-right: 0px;
+	padding-top: 30px;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+}
+.film {
+	display: block;
+	margin-left: 150px;
+}
